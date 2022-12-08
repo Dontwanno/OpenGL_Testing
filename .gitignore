@@ -1,1 +1,3 @@
 [Bb]uild/
+/cmake-build-debug/
+/Glitter/Vendor/freeglut-3.4.0/
